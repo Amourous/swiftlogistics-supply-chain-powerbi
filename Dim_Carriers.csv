@@ -1,0 +1,5 @@
+CarrierID,CarrierName,TransportMode,SLA_Days
+CR-01,Apex Freight,Air Express,2
+CR-02,Oceanic Cargo,Sea Freight,7
+CR-03,SwiftGround,Road Freight,4
+CR-04,MetroPost,City Courier,1
